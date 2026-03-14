@@ -1,7 +1,8 @@
 # Personal Finance Tracker
 
-## 📊 Preview
-![Finance Tracker Dashboard](static/screenshot.png)
+<p>
+  <img src="static/screenshot.png" alt="Preview" width="500">
+<p>
 
 A full-stack web application designed for personal expense management. This project features a responsive dashboard with real-time data visualization, built with a focus on clean architecture and efficient data handling.
 
